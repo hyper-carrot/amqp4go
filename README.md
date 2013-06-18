@@ -1,4 +1,6 @@
-gadget
+amqp4go
 ======
 
-An experimental Message Queue implemented By Go.
+AMQP for Go
+
+An AMQP 1.0 implementation written in Go.
